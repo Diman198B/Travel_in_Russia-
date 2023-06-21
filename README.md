@@ -19,7 +19,7 @@ The site is designed for various devices from mobile (with a minimum resolution 
 
 ## Author:
 Dmitry Barabash
- 
+
 ## Used technologies:
 HTML, CSS, "BEM", Git, deploy-githubpages.
 
