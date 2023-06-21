@@ -1,0 +1,32 @@
+.cover{
+  max-width: 1184px;
+  margin:92px 48px 92px;
+  transition: opacity linear;
+}
+
+@media screen and (min-width:1281px){
+  .cover{
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media screen and (max-width:1024px){
+  .cover{
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media screen and (max-width: 768px){
+  .cover{
+    margin:90px 0 88px;
+  }
+}
+
+@media screen and (max-width:320px){
+  .cover{
+    margin:66px 0 64px;
+  }
+}
+
