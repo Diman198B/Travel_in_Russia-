@@ -21,7 +21,7 @@ The site is designed for various devices from mobile (with a minimum resolution 
 Dmitry Barabash
 
 ## Used technologies:
-HTML, CSS, "BEM", Git, deploy-githubpages.
+HTML, CSS, "BEM", Git.
 
 
 
@@ -51,4 +51,4 @@ Traveling in Russia — адаптивный одностраничный сай
 Дмитрий Барабаш
  
 ## Используемые технологии:
-HTML, CSS, "BEM", Git, deploy-githubpages.
+HTML, CSS, "BEM", Git.
